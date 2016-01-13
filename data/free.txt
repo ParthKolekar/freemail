@@ -1147,7 +1147,6 @@ listomail.com
 list.ru
 littleblueroom.com
 live.cn
-live.co.uk
 live.com
 live.com.au
 live.co.uk
@@ -3332,9 +3331,8 @@ vip.126.com
 vip.21cn.com
 vip.citiz.net
 vip.gr
-vip.qq.com
-vip.sina.com
 vipmail.ru
+vip.qq.com
 vip.sina.com
 virgilio.it
 virginbroadband.com.au

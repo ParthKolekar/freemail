@@ -206,7 +206,6 @@ privacy.net
 proxymail.eu
 prtnx.com
 putthisinyourspamdatabase.com
-qq.com
 quickinbox.com
 rcpt.at
 recode.me
